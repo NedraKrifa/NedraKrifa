@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-My name is Nedra Krifa 😄. I am an embedded telecommunication engineer student and a Full-stack JavaScript intern.
+My name is Nedra Krifa 😄. I am an embedded telecommunication engineer student and a Full-stack JavaScript intern🚀.
 I am interested in web technologies especially react and react native with a pang of great hunger for knowledge,
 I am looking for a Dev (JS) internship.You can find me on [![LinkedIn][1.2]][1].
 
@@ -27,17 +27,10 @@ I am looking for a Dev (JS) internship.You can find me on [![LinkedIn][1.2]][1].
   [![CodePen Badge](https://img.shields.io/badge/Codepen-My%20pens-brightgreen)](https://codepen.io/nedra-krifa)
 <p align='left'> 
 
+<br>
 ---
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/node/v/lts?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -56,22 +49,24 @@ I am looking for a Dev (JS) internship.You can find me on [![LinkedIn][1.2]][1].
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
+<br>
 ---
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/NedraKrifa/NedraKrifa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NedraKrifa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="NedraKrifa GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NedraKrifa&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/NedraKrifa/NedraKrifa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NedraKrifa&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NedraKrifa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="NedraKrifa GitHub Stats" />
 </a>
 
 <a href="https://github.com/NedraKrifa/React-Toast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NedraKrifa&repo=React-Toast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<br>
 ---
 
 ## :mailbox: How to reach me : 
@@ -79,7 +74,6 @@ I am looking for a Dev (JS) internship.You can find me on [![LinkedIn][1.2]][1].
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](nedrakrifa@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/nedrakrifa/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/NedraKrifa/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/nedra krifa#0495)
 
 <!-- icons with padding -->
 
