@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 I am interested in web technologies especially react and react native with a pang of great hunger for knowledge
 * I am looking for a Dev (JS) internship.You can find me on [![LinkedIn][1.2]][1].
 
+<br>
+
 [![Gmail Badge](https://img.shields.io/badge/-nedrakrifa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nedrakrifa@gmail.com
 )](mailto:nedrakrifa@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-in/nedrakrifa/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/nedrakrifa/)](https://www.linkedin.com/in/nedrakrifa/) [![Github Badge](https://img.shields.io/badge/-NedraKrifa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/NedraKrifa/)](https://www.github.com/NedraKrifa/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://nedra.dev/)](https://nedra.dev/)
   [![CodePen Badge](https://img.shields.io/badge/Codepen-My%20pens-brightgreen)](https://codepen.io/nedra-krifa)
