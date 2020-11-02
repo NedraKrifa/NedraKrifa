@@ -76,7 +76,7 @@ I am interested in web technologies especially react and react native with a pan
 
 ## :mailbox: How to reach me : 
 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](nedrakrifa@gmail.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:nedrakrifa@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/nedrakrifa/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/NedraKrifa/)
 
