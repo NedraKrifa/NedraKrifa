@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-* My name is Nedra Krifa 😄. I am an embedded telecommunication engineer student and a Full-stack JavaScript intern🚀.
+* My name is Nedra Krifa 😄. I am an embedded telecommunication engineering student and a Full-stack JavaScript intern🚀.
 I am interested in web technologies especially react and react native with a pang of great hunger for knowledge
 * I am looking for a Dev (JS) internship.You can find me on [![LinkedIn][1.2]][1].
 
