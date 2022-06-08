@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-* My name is Nedra Krifa 😄. I am an embedded telecommunication engineering student and a Full-stack JavaScript developer🚀.
+* My name is Nedra Krifa 😄. I am a Full Stack Javascript Web Development Engineer🚀.
 I am interested in web technologies especially react and nodeJS with a pang of great hunger for knowledge
 * I am looking for a Web Development job.You can find me on [![LinkedIn][1.2]][1].
 
