@@ -118,9 +118,8 @@ A real-time technical chat application built with React and WebSocket/STOMP-base
 
 ## 📊 GitHub
 
-![Nedra's GitHub stats](https://github-readme-stats.vercel.app/api?username=NedraKrifa&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NedraKrifa&layout=compact&hide_border=true)
+[![GitHub](https://img.shields.io/badge/GitHub-NedraKrifa-181717?style=flat-square&logo=github)](https://github.com/NedraKrifa)
+[![Repositories](https://img.shields.io/badge/Repositories-28-blue?style=flat-square)](https://github.com/NedraKrifa?tab=repositories)
 
 ---
 
